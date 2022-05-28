@@ -3,7 +3,7 @@ name = "better-stopwatch"
 version = "0.1.0"
 edition = "2021"
 readme = "readme.md"
-
+license = "BSD-4-Clause"
 homepage = "https://github.com/ChBrMa/better-stopwatch#readme"
 repository = "https://github.com/ChBrMa/better-stopwatch"
 description = "This is a module for time measurement in your Rust code"

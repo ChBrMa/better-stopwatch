@@ -1,6 +1,6 @@
 
 # better-stopwatch
-[![example event parameter](https://github.com/ChBrMa/better-stopwatch/actions/workflows/rust.yml/badge.svg?event=push)]
+[![CI](https://github.com/ChBrMa/better-stopwatch/actions/workflows/rust.yml/badge.svg?event=push)](https://github.com/ChBrMa/better-stopwatch/actions/workflows/rust.yml)
 ### This is a module for time measurement in your Rust code
 
 --- 

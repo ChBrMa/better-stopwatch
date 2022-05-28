@@ -1,6 +1,6 @@
 [package]
 name = "better-stopwatch"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
 readme = "readme.md"
 license = "BSD-4-Clause"
